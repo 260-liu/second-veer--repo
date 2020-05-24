@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15fe9100-e491-434d-9e3f-a69a1e532307" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CardImge.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CardImge.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScreenButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScreenButton.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SimpleList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SimpleList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/avatar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/avatar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/foldList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/foldList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/map.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/map.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/test.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/test.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/veer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/veer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\Study\前端学习\组件库\VeerProject\veer\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1c55lq5C0DnVvkt2BX9zvgZCVLe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Study\前端学习\组件库\VeerProject\veer\src\assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15fe9100-e491-434d-9e3f-a69a1e532307" name="Default Changelist" comment="" />
+      <created>1589805767789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589805767789</updated>
+      <workItem from="1589805771516" duration="4203000" />
+      <workItem from="1589953851958" duration="12915000" />
+      <workItem from="1590025359787" duration="31171000" />
+      <workItem from="1590127860364" duration="7987000" />
+      <workItem from="1590201940955" duration="4305000" />
+      <workItem from="1590215470607" duration="794000" />
+      <workItem from="1590216277099" duration="14409000" />
+      <workItem from="1590240542684" duration="3920000" />
+      <workItem from="1590285267327" duration="828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#ESLint" timestamp="1590226211907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1590226211907" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590132292193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590132292193" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1590285859077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590285859077" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1590285860547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590285860547" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1590242721113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590242721113" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1590285279995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590285279995" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590057767546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590057767546" />
+  </component>
+</project>
